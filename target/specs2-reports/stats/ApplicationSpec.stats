@@ -1,0 +1,18 @@
+<ApplicationSpec-stats timestamp="1384261442838"><stats time="1015" expectations="3" successes="3" examples="3"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384261791190"><stats time="326" expectations="1" successes="1" examples="1"><trend><stats time="326" expectations="-2" successes="-2" examples="-2"></stats></trend></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384262175034"><stats time="294" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-results timestamp="1384262201314"><result location="ApplicationSpec (ApplicationSpec.scala:30)" id="1467900066"><stats time="1320" expectations="1" failures="1" examples="1"></stats></result>
+</ApplicationSpec-results>
+<ApplicationSpec-stats timestamp="1384262201328"><stats time="28" expectations="1" failures="1" examples="1"><trend><stats time="28" failures="1" successes="-1"></stats></trend></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384262255800"><stats time="29" expectations="1" successes="1" examples="1"><trend><stats time="29" failures="-1" successes="1"></stats></trend></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384263426643"><stats time="324" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384263492139"><stats time="293" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384264576458"><stats time="281" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384264640200"><stats time="292" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384264679817"><stats time="228" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384264700435"><stats time="243" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384264776088"><stats time="245" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384264932147"><stats time="308" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384265670254"><stats time="316" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384266186392"><stats time="322" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>
+<ApplicationSpec-stats timestamp="1384266279590"><stats time="357" expectations="1" successes="1" examples="1"></stats></ApplicationSpec-stats>

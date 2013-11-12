@@ -1,0 +1,5 @@
+eclipse
+run 8084
+test
+import play.api.libs.ws._
+test
